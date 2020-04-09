@@ -1,10 +1,1 @@
-This is a gitlab example.
-This is change.
-This is change3.
-change4
-change5
-<<<<<<< HEAD
-aaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbb
->>>>>>> oliver
-change7
+
